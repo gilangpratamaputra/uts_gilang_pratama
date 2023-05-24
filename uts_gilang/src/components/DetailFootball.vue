@@ -178,7 +178,7 @@ h2{
 }
 
 .progress div {
-    background-color: red
+    background-color: rgb(248, 134, 134)
 }
 
 .text1 {
